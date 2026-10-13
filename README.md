@@ -15,4 +15,4 @@ This app is a Streamlit front end for our Build4 RAG router data analysis agent.
 ## Deployment notes
 - This app is deployed on Streamlit Community Cloud
 - The OpenAI API key is stored in Streamlit secrets
-- The app is private and shared only with redteam testers
+- The app is shared with redteam testers
